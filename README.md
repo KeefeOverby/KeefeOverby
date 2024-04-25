@@ -1,7 +1,3 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=KeefeOverby&label=Profile%20views&color=f79952&style=flat" alt="wrappedusername" /> 
-</p>
-
 <img src="https://github-profile-trophy.vercel.app/?username=KeefeOverby&theme=juicyfresh&no-bg=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeefeOverby&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
